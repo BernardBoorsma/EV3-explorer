@@ -9,4 +9,4 @@ De robot rijdt met twee [Large motoren](https://www.lego.com/r/www/r/mindstorms/
 
 Als de robot een object tegenkomt, zal hij rondkijken en de richting opgaan waar de langste weg is. Als er meerdere richtingen zijn met dezelfde afstand, kiest hij een willekeurige richting uit die verzameling. Hij gaat de grote motoroen draaien tot de gyrosensor ongeveer de juiste hoek geeft.
 
-Op de [EV3](https://www.lego.com/nl-nl/mindstorms/)-steen draait [ev3dev](https://www.ev3dev.org/)
+Op de [EV3](https://www.lego.com/nl-nl/mindstorms/)-steen draait [ev3dev](https://www.ev3dev.org/) ([ev3dev op GitHub](https://github.com/ev3dev/ev3dev))
